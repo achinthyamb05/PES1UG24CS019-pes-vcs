@@ -178,3 +178,4 @@ int object_read(const ObjectID *id, ObjectType *type_out, void **data_out, size_
 // Phase 1: Setup object directory structure
 // Phase 1: Implement object_write
 // Phase 1: Implement object_read
+// Phase 1: Error handling for object store
